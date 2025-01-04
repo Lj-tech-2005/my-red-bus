@@ -155,6 +155,7 @@ header {
     align-items: center;
     justify-content: center;
     gap: 5px;
+    cursor: pointer;
 }
 
 
@@ -175,6 +176,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    cursor: pointer;
 }
 
 .account {
@@ -184,6 +186,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    cursor: pointer;
 
 }
 
@@ -215,6 +218,7 @@ header {
     font-size: 13px;
     font-weight: 500;
     outline: none;
+    cursor: pointer;
 
 }
 
@@ -232,6 +236,7 @@ i {
     border: none;
     outline: none;
     font-weight: 500;
+    cursor: pointer;
 }
 
 section {
@@ -310,6 +315,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 }
 
 .fa-arrow-right-arrow-left {
@@ -356,12 +362,14 @@ section {
     gap: 10px;
     font-size: 17px;
     font-weight: 500;
+    cursor: pointer;
 
 }
 
 .from-box3 input {
     border: none;
     outline: none;
+    cursor: pointer;
 }
 
 .from-box4 {
@@ -376,6 +384,7 @@ section {
     font-weight: 700;
     font-size: 18px;
     color: rgb(255, 255, 255);
+    cursor: pointer;
 
 
 }
@@ -408,6 +417,7 @@ section {
     font-size: 14px;
     margin-right: 15px;
     font-weight: 500;
+    cursor: pointer;
 
 }
 
@@ -417,6 +427,7 @@ section {
     border: none;
     outline: none;
     color: black;
+    font-size:20px;
 }
 
 
@@ -601,8 +612,9 @@ section {
     height: 265px;
     margin: 70px auto;
     display: flex;
-    justify-content: space-around;
     align-items: center;
+    overflow: hidden;
+    gap: 30px;
 
 }
 
@@ -1588,6 +1600,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    cursor: pointer;
 }
 
 
